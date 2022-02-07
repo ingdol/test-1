@@ -11,6 +11,7 @@
 	</head>
 	<body>
 		<h3>상풍 등록</h3>
+		<h3>상품 등록2</h3> branch test_sej 수정함
 		
 		<form method="post" action="/mybatis/product/insertProduct">
 			<table>
